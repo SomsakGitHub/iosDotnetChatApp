@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6D773645-5D75-46CE-B9FB-34C9A250990A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="websocketsASP/socketManager/connectionManager.cs">
+    <Files>
+      <File FileName="websocketsASP/socketManager/connectionManager.cs" Line="34" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="websocketsASP" expanded="True">
+            <Node name="websocketsASP" expanded="True">
+              <Node name="socketManager" expanded="True">
+                <Node name="connectionManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.websocketsASP PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
